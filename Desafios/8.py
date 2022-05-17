@@ -7,4 +7,3 @@ cm = m * 100
 mm = m * 1000
 
 print('A medida de {}m corresponde a:\n{}km\n{}hm\n{:.1f}dam\n{:.0f}dm\n{:.0f}cm\n{:.0f}mm'.format(m, km, hm, dam, dm, cm, mm))
-
