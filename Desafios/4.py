@@ -8,3 +8,4 @@ print('É um alfanumérico? ', tp.isalnum())
 print('Está em maiúsculas? ', tp.isupper())
 print('Está em minúsculas? ', tp.islower())
 print('Está capitalizada? ', tp.istitle())
+
