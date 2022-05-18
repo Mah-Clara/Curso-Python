@@ -1,2 +1,2 @@
-# Curso Python - Mundo 1
- Curso Pyhon - Mundo 1: Introdução ao mundo da programação.
+# Curso Python 3 - Mundo 1
+Curso feito na plataforma **Curso em Vídeo** em: [Python 3 - Mundo 1](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
