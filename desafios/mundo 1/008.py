@@ -1,3 +1,6 @@
+# Desafio 008 - Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e melímetros.
+# km, hm, dam, m, dm, cm, mm
+
 m = float(input('Digite um valor em metros: '))
 km = m * 0.001
 hm = m * 0.01
